@@ -1,6 +1,5 @@
 //
 //  NSSimpleDefaults.m
-//  Magazine
 //
 //  Created by Yannik Achternbosch on 18/02/14.
 //  Copyright (c) 2014 Yannik Achternbosch. All rights reserved.
