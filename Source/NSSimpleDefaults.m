@@ -15,9 +15,9 @@
     [defaults setObject:object forKey:key];
 }
 
-+(void)getObjectForKey:(NSString *)key {
++(id)getObjectForKey:(NSString *)key {
     NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
-    [defaults valueForKey:key];
+    return [defaults valueForKey:key];
 }
 
 @end

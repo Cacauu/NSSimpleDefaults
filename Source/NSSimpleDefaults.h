@@ -12,6 +12,6 @@
 
 +(void)setObject:(id)object forKey:(NSString *)key;
 
-+(void)getObjectForKey:(NSString *)key;
++(id)getObjectForKey:(NSString *)key;
 
 @end
