@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name = "NSSimpleDefaults"
-	s.version = "1.0.2"
+	s.version = "1.0.3"
 	s.summary = "A simple implementation of NSUserDefaults with shorter getting and setting methods"
 	s.author = {
 		"Yannik Achternbosch" => "Yannik@AppTestsss.de" 
