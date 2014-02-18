@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name = "NSSimpleDefaults"
-	s.version = "1.0.1"
+	s.version = "1.0.2"
 	s.summary = "A simple implementation of NSUserDefaults with shorter getting and setting methods"
 	s.author = {
 		"Yannik Achternbosch" => "Yannik@AppTestsss.de" 
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 		:file => "LICENSE"
 	}
 	s.source = {
-		:git => "https://Cacauu@bitbucket.org/Cacauu/nssimpledefaults.git",
+		:git => "https://github.com/Cacauu/NSSimpleDefaults.git",
 		:tag => s.version.to_s
 	}
 	s.source_files = "Source/*.{h,m}"
